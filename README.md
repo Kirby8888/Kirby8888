@@ -9,8 +9,6 @@
 - Python
 - Java
 - Node.js
-- Next.js
-- AWS
 
 ### 🛠️ Tech Stack Badges
 <p>

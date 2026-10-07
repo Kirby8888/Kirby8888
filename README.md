@@ -1,16 +1,31 @@
-## Hi there 👋
+### 💻 BS Information Technology Student
+- **Full Stack Developer**
+- 📍 Philippines
 
-<!--
-**Kirby8888/Kirby8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Currently Learning
+- React
+- Laravel
+- Flutter
+- Python
+- Java
+- Node.js
+- Next.js
+- AWS
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack Badges
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+[![Kirby8888's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirby8888&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirby8888&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirby8888&layout=compact&theme=dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kirby8888&theme=dark)](https://git.io/streak-stats)

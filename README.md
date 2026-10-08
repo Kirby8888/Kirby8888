@@ -3,7 +3,6 @@
 - 📍 Philippines
 
 ### 🚀 Currently Learning
-- React
 - Laravel
 - Flutter
 - Python

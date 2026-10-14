@@ -1,4 +1,4 @@
-### 💻 BS Information Technology Student 4th Year
+### 💻 BS Information Technology Student (4th Year)
 - **Full Stack Developer**
 - 📍 Philippines
 
